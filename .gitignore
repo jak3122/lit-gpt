@@ -6,8 +6,7 @@ build
 .venv
 .vscode
 
-# data
-data
+*.pt
 datasets
 checkpoints
 out
